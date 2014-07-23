@@ -6,4 +6,4 @@ Learn about common physics related problems in Unity and how to solve them. Some
 
 Demo files for the Tuts+ tutorial: [How to Fix Common Physics Problems](https://gamedevelopment.tutsplus.com/articles/how-to-fix-common-physics-problems--cms-21418)
 
-For source files, see: https://github.com/tutsplus/GoodAndBadPhysicsDemo/
+For source files, see: [https://github.com/tutsplus/How-to-Fix-Common-Physics-Problems-Source/](https://github.com/tutsplus/How-to-Fix-Common-Physics-Problems-Source/)
